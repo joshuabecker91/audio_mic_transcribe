@@ -1,6 +1,6 @@
 this is testing speech-to-text
 it will add a new line for each time you speak
-and depend that to the text document
+and add that to the text document
 listens for a 2-second pause before adding a new line
 can stop running the pie file at any time
 it will choose the highest confidence score of interpreted audio
